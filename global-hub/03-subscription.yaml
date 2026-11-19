@@ -6,7 +6,7 @@ metadata:
   annotations:
     argocd.argoproj.io/sync-wave: "0"
 spec:
-  channel: release-1.7
+  channel: release-1.8
   installPlanApproval: Automatic
   name: multicluster-global-hub-operator-rh
   source: redhat-operators
